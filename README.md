@@ -1,4 +1,4 @@
-![image](https://github.com/HuyGlaucus/KienTruc_Tuan7/assets/116423850/055ef347-3a08-430c-b306-56e8f1a14d60)#Practice week 7 of Software Achitecture and Design subject
+#Practice week 7 of Software Achitecture and Design subject
 
 #FullName: Nguyễn Hữu Huy
 #StudentID: 20102781
